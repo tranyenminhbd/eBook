@@ -1,0 +1,5 @@
+{
+  "name": "Cổng thông tin Sách điện tử Doanh nghiệp-fn",
+  "description": "Một ứng dụng web để tập trung và cung cấp quyền truy cập dễ dàng vào các quy trình, quy định và hướng dẫn của công ty. Người dùng có thể tìm kiếm và xem tất cả nội dung mà không cần đăng nhập.",
+  "requestFramePermissions": []
+}
